@@ -1,2 +1,2 @@
 # test-proj
-Testing some dir
+Another one bites the dust
